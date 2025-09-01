@@ -186,7 +186,7 @@ python-dotenv==1.0.1
 python-json-logger==2.0.7
 pytorch-lightning==2.5.1
 pytz==2024.2
-pyunormalize==15.1.0
+
 PyYAML==6.0.2
 pyzmq==26.2.0
 qrcode==8.2
@@ -199,7 +199,7 @@ rich==13.9.4
 rlp==4.0.0
 rpds-py==0.23.1
 safetensors==0.5.3
-scikit-learn==1.6.1
+scikit-learn==1.4.2
 scipy==1.13.1
 seaborn==0.13.2
 semantic-version==2.10.0
